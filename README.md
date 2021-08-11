@@ -34,3 +34,9 @@ Set up the 3rd party libraray
     }
   g. Run test script
 3. To run all test scripts: npm run cy:run test
+4. Structure:
+This automation project is using Page Object Model to contains classes.
+The page folder contains classes for each page: LoginPage, HomePage, NewCustomerPage and CustomerRegistrationPage.
+The fixtures folder contains the test data.
+The Integration folder contains the test case.
+The Reports folder contains the report after running. This folder is automatically created after running.
