@@ -1,0 +1,24 @@
+{
+  "name": "Demo",
+  "version": "1.0.0",
+  "description": "This is a Cypress demo project",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "demo",
+    "Cypress"
+  ],
+  "author": "Tuyen Tran",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.2.0",
+    "cypress-multi-reporters": "^1.5.0",
+    "cypress-xpath": "^1.6.2",
+    "mocha": "^9.0.3",
+    "mochawesome": "^6.2.2",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.2.0"
+  }
+}

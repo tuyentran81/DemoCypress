@@ -1,0 +1,12 @@
+{
+  "name": "Andrew Wee",
+  "gender": "male",
+  "dob": "2000-01-01",
+  "address": "This is a demo street",
+  "city": "Charleston",
+  "state": "SC",
+  "pin": "123456",
+  "mobileNo": "1234567890",
+  "email": "test@gmail.com",
+  "password": "123456789"
+}
