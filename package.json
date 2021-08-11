@@ -4,7 +4,8 @@
   "description": "This is a Cypress demo project",
   "main": "index.js",
   "scripts": {
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "cy:run chrome": "cypress run --browser chrome --headed"
   },
   "keywords": [
     "demo",

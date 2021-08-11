@@ -1,8 +1,9 @@
 # DemoGuru
 This is a demo project written in Cypress
 
-- First setup:
-  npm install -g cypress
+- Make sure that you already installed NodeJS (latest version)
+- Install Cypress:
+  npm install cypress --save-dev
 
 Set up the 3rd party libraray
  1. cypress-xpath
@@ -32,3 +33,4 @@ Set up the 3rd party libraray
         }
     }
   g. Run test script
+3. To run all test scripts: npm run cy:run test
